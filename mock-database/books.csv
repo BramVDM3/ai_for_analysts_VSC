@@ -1,0 +1,16 @@
+bookId,title,category,referenceOnly,available
+B001,The Great Gatsby,fiction,False,True
+B002,Introduction to Data Science,education,False,True
+B003,Oxford English Dictionary,reference,True,True
+B004,World History Atlas,reference,True,True
+B005,Modern JavaScript Explained,technology,False,True
+B006,The Art of Photography,arts,False,False
+B007,Advanced Economics,education,False,True
+B008,Digital Accessibility Guidelines,education,False,True
+B009,Introduction to Philosophy,non-fiction,False,False
+B010,Children's Story Hour Collection,children,False,True
+B011,Urban Planning Basics,non-fiction,False,True
+B012,European History 1900-1950,history,False,True
+B013,Local City History Compendium,history,True,True
+B014,Learning Python the Hard Way,technology,False,True
+B015,Creative Writing Handbook,arts,False,True
